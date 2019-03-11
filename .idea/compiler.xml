@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="None.Awza'ee's_First_Mod_-_intellij_IDEA.api" target="1.8" />
+      <module name="None.Awza'ee's_First_Mod_-_intellij_IDEA.main" target="1.8" />
+      <module name="None.Awza'ee's_First_Mod_-_intellij_IDEA.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

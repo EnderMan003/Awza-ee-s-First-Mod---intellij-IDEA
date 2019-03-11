@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "  M",
+    " S ",
+    "C  "
+  ],
+
+  "key":
+  {
+    "M":
+    {
+      "item": "cim:metal"
+    },
+
+    "S":
+    {
+      "item": "minecraft:stick"
+    },
+    
+    "C":
+    {
+      "item": "minecraft:concrete",
+      "data": 7
+    }
+  },
+
+  "result":
+  {
+    "item": "cim:metal_shovel",
+    "count": 1
+  }
+}

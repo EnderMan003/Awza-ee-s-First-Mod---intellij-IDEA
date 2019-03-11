@@ -1,0 +1,10 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "beaches": "2019-02-15 13:33:26 +0500",
+      "plains": "2019-02-15 13:33:22 +0500",
+      "extreme_hills": "2019-02-15 13:33:05 +0500"
+    },
+    "done": false
+  }
+}
