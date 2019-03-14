@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/None.Awza'ee's_First_Mod_-_intellij_IDEA.iml" filepath="$PROJECT_DIR$/.idea/modules/None.Awza'ee's_First_Mod_-_intellij_IDEA.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/None.Awza'ee's_First_Mod_-_intellij_IDEA.api.iml" filepath="$PROJECT_DIR$/.idea/modules/None.Awza'ee's_First_Mod_-_intellij_IDEA.api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/None.Awza'ee's_First_Mod_-_intellij_IDEA.main.iml" filepath="$PROJECT_DIR$/.idea/modules/None.Awza'ee's_First_Mod_-_intellij_IDEA.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/None.Awza'ee's_First_Mod_-_intellij_IDEA.test.iml" filepath="$PROJECT_DIR$/.idea/modules/None.Awza'ee's_First_Mod_-_intellij_IDEA.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/None.First_Mod.iml" filepath="$PROJECT_DIR$/.idea/modules/None.First_Mod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/None.First_Mod.api.iml" filepath="$PROJECT_DIR$/.idea/modules/None.First_Mod.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/None.First_Mod.main.iml" filepath="$PROJECT_DIR$/.idea/modules/None.First_Mod.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/None.First_Mod.test.iml" filepath="$PROJECT_DIR$/.idea/modules/None.First_Mod.test.iml" />
     </modules>
   </component>
 </project>

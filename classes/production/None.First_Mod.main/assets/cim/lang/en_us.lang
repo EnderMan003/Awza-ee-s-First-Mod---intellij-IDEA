@@ -1,0 +1,14 @@
+
+//Items
+item.metal.name=Metal
+
+//Tools
+item.ultimate_diamond_sword.name=Ultimate Diamond Sword
+item.metal_shovel.name=Metal Shovel
+
+//Blocks
+tile.table.name=Table
+tile.rubiks_cube.name=Rubik's Cube
+
+//Creative Tabs
+itemGroup.custom_items=Custom Items Mod
