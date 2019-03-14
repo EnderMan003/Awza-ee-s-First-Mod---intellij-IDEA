@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8803487e-3f02-4e48-b68e-230f62888897" name="Default Changelist" comment="" />
+    <list default="true" id="8803487e-3f02-4e48-b68e-230f62888897" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/blocks/BlockTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/None.Awza'ee's_First_Mod_-_intellij_IDEA.api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/None.Awza'ee's_First_Mod_-_intellij_IDEA.api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/None.Awza'ee's_First_Mod_-_intellij_IDEA.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/None.Awza'ee's_First_Mod_-_intellij_IDEA.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/None.Awza'ee's_First_Mod_-_intellij_IDEA.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/None.Awza'ee's_First_Mod_-_intellij_IDEA.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/None.Awza'ee's_First_Mod_-_intellij_IDEA.main/assets/cim/blockstates/rubiks_cube.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/None.Awza'ee's_First_Mod_-_intellij_IDEA.main/assets/cim/models/block/rubiks_cube.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/None.Awza'ee's_First_Mod_-_intellij_IDEA.main/assets/cim/models/item/rubiks_cube.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/None.Awza'ee's_First_Mod_-_intellij_IDEA.main/assets/cim/recipes/MShovel_recipe" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/None.Awza'ee's_First_Mod_-_intellij_IDEA.main/assets/cim/recipes/MShovel_recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/config/splash.properties" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/splash.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-2.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-3.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-4.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-5.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Mod Testing World/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Testing World/data/villages.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Mod Testing World/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Testing World/level.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Mod Testing World/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Testing World/level.dat_old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Mod Testing World/region/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Testing World/region/r.-1.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Mod Testing World/region/r.-1.-2.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Testing World/region/r.-1.-2.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Mod Testing World/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Testing World/region/r.-1.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Mod Testing World/region/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Testing World/region/r.0.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Mod Testing World/region/r.0.-2.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Testing World/region/r.0.-2.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Mod Testing World/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Testing World/region/r.0.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Mod Testing World/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Mod Testing World/session.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/usercache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usercache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/usernamecache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usernamecache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/blocks/RubiksCube.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/blocks/Table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/init/ModBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/init/ModBlocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cim/blockstates/rubiks_cube.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cim/models/block/rubiks_cube.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cim/models/item/rubiks_cube.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mcmod.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mcmod.info" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -13,6 +51,9 @@
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Awza_ee_s_First_Mod___intellij_IDEA$Minecraft_Client.ic" NAME="Minecraft Client Coverage Results" MODIFIED="1552528296009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -55,56 +96,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            <state relative-caret-position="322">
+              <caret line="44" column="50" selection-start-line="44" selection-start-column="50" selection-end-line="44" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1387#1388#0" expanded="true" />
+                <element signature="e#1449#1450#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/util/Reference.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/assets/cim/recipes/UDS_recipe">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/assets/cim/recipes/MShovel_recipe">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/blocks/Table.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/blocks/BlockTable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="597">
+              <caret line="58" column="4" lean-forward="true" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#206#207#0" expanded="true" />
-                <element signature="e#248#249#0" expanded="true" />
-                <element signature="e#320#321#0" expanded="true" />
-                <element signature="e#348#349#0" expanded="true" />
-                <element signature="e#418#419#0" expanded="true" />
-                <element signature="e#446#447#0" expanded="true" />
+                <element signature="e#923#924#0" expanded="true" />
+                <element signature="e#951#952#0" expanded="true" />
+                <element signature="e#1021#1022#0" expanded="true" />
+                <element signature="e#1049#1050#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.4.2705/snapshot/20171003/forgeSrc-1.12.2-14.23.4.2705-sources.jar!/net/minecraft/block/BlockFurnace.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="90" selection-start-line="90" selection-end-line="90" />
             </state>
           </provider>
         </entry>
@@ -120,6 +143,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -138,10 +164,8 @@
         <option value="$PROJECT_DIR$/src/main/resources/assets/cim/models/item/table.json" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/cim/models/block/table.json" />
         <option value="$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/util/Reference.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/Main.java" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/cim/blockstates/rubiks_cube.json" />
         <option value="$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/blocks/RubiksCube.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/init/ModBlocks.java" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/cim/models/item/rubiks_cube.json" />
         <option value="$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/init/ModItems.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/items/tools/ToolSpade.java" />
@@ -150,15 +174,22 @@
         <option value="$PROJECT_DIR$/src/main/resources/assets/cim/recipes/UDS_recipe.json" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/cim/recipes/UDS_recipe" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/cim/recipes/MShovel_recipe" />
+        <option value="$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/blocks/BlockRotatedObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/blocks/BlockObject.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/blocks/Table.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/init/ModBlocks.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/blocks/BlockTable.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mcmod.info" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="873" />
     <option name="width" value="985" />
     <option name="height" value="711" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages ProjectPane="false" />
@@ -174,6 +205,17 @@
             <path>
               <item name="Awza'ee's First Mod - intellij IDEA" type="b2602c69:ProjectViewProjectNode" />
               <item name="Awza'ee's First Mod - intellij IDEA" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Awza'ee's First Mod - intellij IDEA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Awza'ee's First Mod - intellij IDEA" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="run" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Awza'ee's First Mod - intellij IDEA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Awza'ee's First Mod - intellij IDEA" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="run" type="462c0819:PsiDirectoryNode" />
+              <item name="crash-reports" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Awza'ee's First Mod - intellij IDEA" type="b2602c69:ProjectViewProjectNode" />
@@ -258,18 +300,6 @@
               <item name="Awza'ee's First Mod - intellij IDEA" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="awzaee" type="462c0819:PsiDirectoryNode" />
-              <item name="customitemsmod" type="462c0819:PsiDirectoryNode" />
-              <item name="items" type="462c0819:PsiDirectoryNode" />
-              <item name="tools" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Awza'ee's First Mod - intellij IDEA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Awza'ee's First Mod - intellij IDEA" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -291,65 +321,33 @@
             </path>
             <path>
               <item name="Awza'ee's First Mod - intellij IDEA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Awza'ee's First Mod - intellij IDEA" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="cim" type="462c0819:PsiDirectoryNode" />
-              <item name="blockstates" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
               <item name="Awza'ee's First Mod - intellij IDEA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Awza'ee's First Mod - intellij IDEA" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="cim" type="462c0819:PsiDirectoryNode" />
-              <item name="lang" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="forgeSrc-1.12.2-14.23.4.2705.jar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Awza'ee's First Mod - intellij IDEA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Awza'ee's First Mod - intellij IDEA" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="cim" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="forgeSrc-1.12.2-14.23.4.2705.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Awza'ee's First Mod - intellij IDEA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Awza'ee's First Mod - intellij IDEA" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="cim" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="forgeSrc-1.12.2-14.23.4.2705.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+              <item name="minecraft" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Awza'ee's First Mod - intellij IDEA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="forgeSrc-1.12.2-14.23.4.2705.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+              <item name="minecraft" type="462c0819:PsiDirectoryNode" />
               <item name="block" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Awza'ee's First Mod - intellij IDEA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Awza'ee's First Mod - intellij IDEA" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="cim" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-              <item name="item" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Awza'ee's First Mod - intellij IDEA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Awza'ee's First Mod - intellij IDEA" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="cim" type="462c0819:PsiDirectoryNode" />
-              <item name="recipes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -358,9 +356,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552222028610" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552528713309" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -468,10 +467,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21695095" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2217484" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -481,7 +479,7 @@
       <window_info id="Learn" order="7" weight="0.32995737" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.17888889" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -492,6 +490,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3288889" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32995737" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -502,6 +501,7 @@
       <window_info anchor="right" id="Gradle" order="7" weight="0.32995737" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Codota" order="10" weight="0.32995737" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20309168" />
@@ -615,28 +615,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/blocks/BlockBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#819#820#0" expanded="true" />
-            <element signature="e#913#914#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/init/ModBlocks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="74" selection-start-line="16" selection-start-column="74" selection-end-line="16" selection-end-column="74" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/items/ItemBase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -657,20 +635,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/cim/blockstates/rubiks_cube.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/cim/models/item/rubiks_cube.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="35" lean-forward="true" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/cim/blockstates/rubiks_cube.json" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/cim/models/item/rubiks_cube.json" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/assets/cim/blockstates/table.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -685,13 +651,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/cim/models/block/rubiks_cube.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/cim/models/block/rubiks_cube.json" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/assets/cim/lang/en_us.lang">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -725,20 +685,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/assets/cim/recipes/UDS recipe" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/assets/cim/recipes/UDS_recipe.json" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/cim/recipes/MShovel_recipe">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/util/Reference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
@@ -749,25 +699,126 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/cim/recipes/MShovel_recipe">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/util/Reference.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/blocks/Table.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/blocks/BlockBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#819#820#0" expanded="true" />
+            <element signature="e#913#914#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/blocks/BlockRotatedObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.4.2705/snapshot/20171003/forgeSrc-1.12.2-14.23.4.2705-sources.jar!/net/minecraft/util/EnumFacing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="477" column="8" selection-start-line="477" selection-start-column="8" selection-end-line="477" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.4.2705/snapshot/20171003/forgeSrc-1.12.2-14.23.4.2705-sources.jar!/net/minecraft/block/properties/PropertyDirection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/init/ModBlocks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.4.2705/snapshot/20171003/forgeSrc-1.12.2-14.23.4.2705-sources.jar!/net/minecraft/block/BlockObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.4.2705/snapshot/20171003/forgeSrc-1.12.2-14.23.4.2705-sources.jar!/net/minecraft/block/BlockPumpkin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.4.2705/snapshot/20171003/forgeSrc-1.12.2-14.23.4.2705-sources.jar!/net/minecraftforge/fml/common/event/FMLPreInitializationEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="44" column="50" selection-start-line="44" selection-start-column="50" selection-end-line="44" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1387#1388#0" expanded="true" />
+            <element signature="e#1449#1450#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/blocks/BlockObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="51" column="42" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mcmod.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.4.2705/snapshot/20171003/forgeSrc-1.12.2-14.23.4.2705-sources.jar!/net/minecraft/block/BlockFurnace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/awzaee/customitemsmod/blocks/BlockTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="58" column="4" lean-forward="true" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#923#924#0" expanded="true" />
+            <element signature="e#951#952#0" expanded="true" />
+            <element signature="e#1021#1022#0" expanded="true" />
+            <element signature="e#1049#1050#0" expanded="true" />
           </folding>
         </state>
       </provider>
